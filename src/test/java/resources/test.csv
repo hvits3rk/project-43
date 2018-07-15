@@ -1,0 +1,17 @@
+date,city,country,temp
+1910-11-01,city1,country1,5.0
+1910-12-01,city1,country1,10.0
+1910-01-01,city2,country1,15.0
+1910-02-01,city2,country1,20.0
+2011-01-01,city3,country1,30.0
+2016-02-01,city3,country1,35.0
+2021-07-01,city4,country1,25.0
+2089-06-01,city4,country1,20.0
+1910-10-01,city5,country2,30.0
+1910-11-01,city5,country2,0.0
+1700-06-01,city6,country2,40.0
+1799-07-01,city6,country2,40.0
+1713-10-01,city7,country2,30.0
+1716-11-01,city7,country2,45.0
+1828-06-01,city8,country2,1.0
+1825-07-01,city8,country2,5.0
